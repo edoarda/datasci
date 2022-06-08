@@ -105,8 +105,8 @@ metabolic databases, which will better reflect the collection of biosphere-level
   > Note: My computer had a lot of trouble opening, editing or otherwise existing in proximity of the Stoichiometric Matrix file. Because of that, I couldn't investigate the network_filtered.mat file as much as I'd like. I had to ask a friend for help to save the matrix in .csv for me so I could run the Python script.
   ![First try graph, as shown on Cytoscape](assets/images/graph.graphml.png "A very ugly complex network (first try, this is wrong!)")
   *I swear I tried to get better pictures but my computer was giving up on me by this point. Also had to redo the script because I forgot the graph was bipartite. Ooops.*
-  <br>
-  ![i had to hard reset my laptop after this one](assets/images/graph_before_death.png "What I could see from the second graph")
+  >
+  >![i had to hard reset my laptop after this one](assets/images/graph_before_death.png "What I could see from the second graph")
   *This was the only thing that I could see on Cytoscape before it crashed (after alleged script correction)*
 
 ---
