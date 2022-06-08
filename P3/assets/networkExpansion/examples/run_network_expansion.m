@@ -104,7 +104,9 @@ getMetStructs = @(res) input.compounds(~~(res.x));
 mets = getMets(out);
 rxns = getRxns(out);
 %metStructs = getMetStructs(out);
-fprintf("acabei");
+
 clearvars -except mets rxns 
 
+csvwrite('metsfig1.csv', mets)
+csvwrite('rxnsfig1.csv', rxns)
 

@@ -1,0 +1,75 @@
+"Module enrichment analysis",,,,,
+"Module ID","Name","# Metabolites present","Total","P-value","Adjusted (BH) P-value"
+"M00009","Citrate cycle (TCA cycle, Krebs cycle)",7,9,0,0
+"M00010","Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate",4,5,0,0
+"M00011","Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate",5,6,0,0
+"M00012","Glyoxylate cycle",6,7,0,0
+"M00017","Methionine biosynthesis, apartate => homoserine => methionine",4,8,"1,00E-05","0,00036548972530862"
+"M00018","Threonine biosynthesis, aspartate => homoserine => threonine",2,6,"0,00139","0,0422166371444506"
+"M00019","Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine",6,12,0,0
+"M00021","Cysteine biosynthesis, serine => cysteine",3,3,0,0
+"M00027","GABA (gamma-Aminobutyrate) shunt",4,4,0,0
+"M00029","Urea cycle",4,9,"3,00E-05","0,00106051936687911"
+"M00035","Methionine degradation",3,6,"4,00E-05","0,00139121895440055"
+"M00045","Histidine degradation, histidine => N-formiminoglutamate => glutamate",5,5,0,0
+"M00046","Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate",3,8,"0,00017","0,00547143573857531"
+"M00051","Uridine monophosphate biosynthesis, glutamine (+ PRPP) => UMP",4,8,"1,00E-05","0,00036548972530862"
+"M00118","Glutathione biosynthesis, glutamate => glutathione",2,3,"8,00E-05","0,00269548672415107"
+"M00135","GABA biosynthesis, eukaryotes, putrescine => GABA",2,5,"0,00071","0,0221889341930117"
+"M00136","GABA biosynthesis, prokaryotes, putrescine => GABA",2,5,"0,00081","0,0249525056749985"
+"M00148","Succinate dehydrogenase (ubiquinone)",2,2,0,0
+"M00149","Succinate dehydrogenase, prokaryotes",2,2,0,0
+"M00150","Fumarate reductase, prokaryotes",2,2,0,0
+"M00151","Cytochrome bc1 complex respiratory unit",1,1,0,0
+"M00152","Cytochrome bc1 complex",1,1,0,0
+"M00168","CAM (Crassulacean acid metabolism), dark",3,4,0,0
+"M00169","CAM (Crassulacean acid metabolism), light",3,4,0,0
+"M00170","C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type",3,4,"1,00E-05","0,00036548972530862"
+"M00171","C4-dicarboxylic acid cycle, NAD - malic enzyme type",6,7,0,0
+"M00172","C4-dicarboxylic acid cycle, NADP - malic enzyme type",4,5,0,0
+"M00173","Reductive citrate cycle (Arnon-Buchanan cycle)",9,13,0,0
+"M00175","Nitrogen fixation, nitrogen => ammonia",2,2,0,0
+"M00188","NitT/TauT family transport system",2,3,"7,00E-05","0,0023959881992454"
+"M00226","Histidine transport system",1,1,0,0
+"M00227","Glutamine transport system",1,1,0,0
+"M00230","Glutamate/aspartate transport system",2,2,0,0
+"M00233","Glutamate transport system",1,1,0,0
+"M00237","Branched-chain amino acid transport system",2,6,"0,00156","0,0467217698852853"
+"M00321","Bicarbonate transport system",1,1,0,0
+"M00322","Neutral amino acid transport system",5,8,0,0
+"M00323","Urea transport system",1,1,0,0
+"M00338","Cysteine biosynthesis, homocysteine + serine => cysteine",4,4,0,0
+"M00346","Formaldehyde assimilation, serine pathway",7,10,0,0
+"M00348","Glutathione transport system",1,1,0,0
+"M00374","Dicarboxylate-hydroxybutyrate cycle",6,14,0,0
+"M00376","3-Hydroxypropionate bi-cycle",6,20,"1,00E-05","0,00036548972530862"
+"M00416","Cytochrome aa3-600 menaquinol oxidase",1,2,"0,0016","0,047263328861827"
+"M00438","Nitrate/nitrite transport system",3,3,0,0
+"M00471","NarX-NarL (nitrate respiration) two-component regulatory system",2,2,0,0
+"M00472","NarQ-NarP (nitrate respiration) two-component regulatory system",2,2,0,0
+"M00475","BarA-UvrY (central carbon metabolism) two-component regulatory system",2,2,0,0
+"M00486","CitA-CitB (citrate fermentation) two-component regulatory system",1,1,0,0
+"M00488","DcuS-DcuR (C4-dicarboxylate metabolism) two-component regulatory system",4,4,0,0
+"M00489","DctS-DctR (C4-dicarboxylate transport) two-component regulatory system",2,2,0,0
+"M00490","MalK-MalR (malate transport) two-component regulatory system",1,1,0,0
+"M00497","GlnL-GlnG (nitrogen regulation) two-component regulatory system",1,1,0,0
+"M00498","NtrY-NtrX (nitrogen regulation) two-component regulatory system",1,1,0,0
+"M00504","DctB-DctD (C4-dicarboxylate transport) two-component regulatory system",4,4,0,0
+"M00518","GlnK-GlnL (glutamine utilization) two-component regulatory system",1,1,0,0
+"M00528","Nitrification, ammonia => nitrite",2,3,"0,00011","0,0036492743342353"
+"M00529","Denitrification, nitrate => nitrogen",4,5,0,0
+"M00530","Dissimilatory nitrate reduction, nitrate => ammonia",3,3,0,0
+"M00531","Assimilatory nitrate reduction, nitrate => ammonia",3,3,0,0
+"M00532","Photorespiration",8,14,0,0
+"M00533","Homoprotocatechuate degradation, homoprotocatechuate => 2-oxohept-3-enedioate",4,6,0,0
+"M00535","Isoleucine biosynthesis, pyruvate => 2-oxobutanoate",5,5,0,0
+"M00545","Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA",4,9,"2,00E-05","0,000718796459773619"
+"M00546","Purine degradation, xanthine => urea",5,7,0,0
+"M00569","Catechol meta-cleavage, catechol => acetyl-CoA / 4-methylcatechol => propanoyl-CoA",7,17,0,0
+"M00570","Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine",4,7,0,0
+"M00587","Arginine/lysine/histidine/glutamine transport system",2,4,"0,00019","0,00602520561869063"
+"M00609","Cysteine biosynthesis, methionine => cysteine",3,7,"0,00013","0,00424743362593502"
+"M00620","Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate",6,8,0,0
+"M00622","Nicotinate degradation, nicotinate => fumarate",4,7,0,0
+"M00653","AauS-AauR (acidic amino acids utilization) two-component regulatory system",1,1,0,0
+"M00740","Methylaspartate cycle",11,15,0,0
