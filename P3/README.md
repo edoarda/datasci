@@ -98,10 +98,10 @@ metabolic databases, which will better reflect the collection of biosphere-level
   > Now we can (finally) compare my results with the paper's. For my ease, each sheet on *mmc2.xlxs* was split in 3 csv files named *mmc2_SHEETNAME.csv*
   > I wrote a bash script that stripped everything (molecule names, reaction results, and the header) from the given tables so I could use the *diff* command-line tool to compare my results with the paper's'.
   > I'm happy to report that the results are the same! As an extra precaution, I checked if the example script also does what the paper reported and it seems ok. However, I might not be the best person to report that part since my knowledge with MATLAB script is limited.
-
+  >
   > Now we will try to reproduce the network. One of the files provided in the NetWorkExpansions package (*assets/networkExpansion/data/networks/network_filtered.mat*) seems to provide the reaction table for the full KEGG network.
   > According to the paper, "the stoichiometric matrix was converted into a bipartite undirected graph, where nodes were either reactions or metabolites. In this bipartite graph, an edge exists between a reaction and a metabolite if that reaction either consumes or produces that metabolite." I interpreted that as: In the stoichiometric matrix, for each (metabolite, reaction) pair, an edge exists if the value on the cell is different than zero.
-
+  >
   > Note: My computer had a lot of trouble opening, editing or otherwise existing in proximity of the Stoichiometric Matrix file. Because of that, I couldn't investigate the network_filtered.mat file as much as I'd like. I had to ask a friend for help to save the matrix in .csv for me so I could run the Python script.
   ![First try graph, as shown on Cytoscape](assets/images/graph.graphml.png "A very ugly complex network (first try, this is wrong!)")
   *I swear I tried to get better pictures but my computer was giving up on me by this point. Also had to redo the script because I forgot the graph was bipartite. Ooops.*
